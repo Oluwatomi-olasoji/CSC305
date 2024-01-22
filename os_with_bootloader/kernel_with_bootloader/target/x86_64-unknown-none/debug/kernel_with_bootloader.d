@@ -1,0 +1,1 @@
+C:\Users\telol\OneDrive\Documents\Textbooks\CSC\ 305\CSC305\kernel_with_bootloader\target\x86_64-unknown-none\debug\kernel_with_bootloader: C:\Users\telol\OneDrive\Documents\Textbooks\CSC\ 305\CSC305\kernel_with_bootloader\src\main.rs

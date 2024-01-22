@@ -1,2 +1,2 @@
-pub mod compund;
+pub mod compound;
 pub mod scalar;
